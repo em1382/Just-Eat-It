@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.m \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/ScrollView/RCTScrollContentView.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/RCTView.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/davidabraham/JustEatIt/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/davidabraham/JustEatIt/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/ScrollView/RCTScrollView.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Views/ScrollView/RCTScrollableProtocol.h

@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTJSStackFrame.m \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTJSStackFrame.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTUtils.h

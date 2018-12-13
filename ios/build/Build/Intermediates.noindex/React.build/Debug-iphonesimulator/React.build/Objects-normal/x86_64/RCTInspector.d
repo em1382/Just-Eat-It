@@ -1,0 +1,12 @@
+dependencies: \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Inspector/RCTInspector.mm \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Inspector/RCTInspector.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/davidabraham/JustEatIt/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/davidabraham/JustEatIt/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/davidabraham/JustEatIt/ios/build/Build/Products/Debug-iphonesimulator/include/jsinspector/InspectorInterfaces.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/davidabraham/JustEatIt/node_modules/react-native/Libraries/WebSocket/RCTSRWebSocket.h
